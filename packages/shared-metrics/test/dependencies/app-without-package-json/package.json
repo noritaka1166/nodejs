@@ -16,6 +16,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "fastify": "^3.20.2",
-    "koa": "^2.13.1"
+    "koa": "^2.16.1"
   }
 }
