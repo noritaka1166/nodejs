@@ -20,7 +20,7 @@
     "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "serverless": "3.21.0",
-    "serverless-offline": "^9.2.0"
+    "serverless": "4.31.0",
+    "serverless-offline": "^14.4.0"
   }
 }
