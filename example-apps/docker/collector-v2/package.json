@@ -13,7 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@instana/collector": "2.36.1",
+    "@instana/collector": "5.2.2",
     "express": "^4.21.2"
   }
 }
