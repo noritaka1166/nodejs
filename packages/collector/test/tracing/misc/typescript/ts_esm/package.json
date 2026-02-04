@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@instana/collector": "^3.19.0",
+    "@instana/collector": "^5.2.2",
     "express": "^4.21.0",
     "typescript": "^5.6.2"
   }
