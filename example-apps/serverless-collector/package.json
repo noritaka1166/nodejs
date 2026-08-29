@@ -9,6 +9,6 @@
     "@instana/serverless-collector": "latest",
     "cors": "^2.8.5",
     "dotenv": "^5.0.1",
-    "express": "^4.16.3"
+    "express": "^4.22.1"
   }
 }
